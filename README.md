@@ -9,9 +9,14 @@
 
 ## Source Code
 
-- [Mobile App](https://github.com/Siddhayak/sahay-mobile)
-- [Web Application](https://github.com/Siddhayak/sahay-dash)
-- [Promotional Website](https://github.com/Siddhayak/sahay-website)
+- [Mobile App](https://github.com/Team-TENIM/sahaymobile)
+- [API/Web Application](https://github.com/Team-TENIM/sahaydashboard)
+- [Promotional Website](https://github.com/Team-TENIM/teamtenim)
+
+## Steps to run
+
+- Install dependencies.
+- Run `yarn dev` on the terminal and the app should be live on your local host.
 
 <br />
 
