@@ -1,0 +1,32 @@
+{
+  "rewrites": [{ "source": "/:pathinfo*", "destination": "index.html" }],
+  "redirects": [
+    {
+      "source": "/app",
+      "destination": "http://app.sahay.us/"
+    },
+    {
+      "source": "/branding",
+      "destination": "https://www.behance.net/gallery/137267261/Sahay-Consolidating-the-Healthcare-System"
+    },
+    {
+      "source": "/design",
+      "destination": "https://www.behance.net/gallery/137267261/Sahay-Consolidating-the-Healthcare-System"
+    },
+    {
+      "source": "/figma",
+      "destination": "https://www.figma.com/file/tsNVp7huKBsmi62toTGu4r/Sahay"
+    },
+    {
+      "source": "/download",
+      "destination": "https://drive.google.com/drive/folders/1_6rcaqWYeUTfEKsI6tY9Ms0UMdWVZAy8?usp=sharing"
+    }
+  ],
+  "github": {
+    "autoAlias": true,
+    "enabled": true,
+    "silent": true
+  },
+  "trailingSlash": false,
+  "public": false
+}
